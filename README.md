@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1MenJiatJPg5OVxUr0kSFqmYoKK6IkgCB/view?usp=shari
 
 # Document File Link :
 
-https://drive.google.com/file/d/1lb6I2F4SsMXSu2NnFK_ne1IGYOz8x-61/view?usp=sharing
+https://drive.google.com/file/d/1U3TKNI8vCZgOCY4xqXQXv8n1yIJO55eR/view?usp=sharing
 
 Skills Required: Machine Learning
 
