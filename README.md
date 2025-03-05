@@ -9,7 +9,7 @@ https://flavour-fusion-ai-driven-recipe-blogging-eh6nkndhbc6gsnu7utzsn.streamlit
 
 # Video Demo Link:
 
-https://drive.google.com/file/d/1l4Wk5kCvKMNOSUSuwkcZZJM09l92PKNw/view?usp=sharing
+https://drive.google.com/file/d/1MenJiatJPg5OVxUr0kSFqmYoKK6IkgCB/view?usp=sharing
 
 # Document File Link :
 
